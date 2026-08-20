@@ -6,16 +6,25 @@ I build AI-powered systems that solve real business problems. 15+ years in IT in
 
 ---
 
-### 🚀 Flagship Products
+### 🚀 Live Products
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **cxpro.site** | Multi-model AI contract analyzer that flags hidden risks before you sign | [cxpro.site](https://cxpro.site) |
+| **AgentDirectory** | AI agent marketplace with 13 revenue streams and self-hosted OTP auth | [agentdirectory.net](https://agentdirectory.net) |
+| **Memory Maker** | AI-powered photo memory app with Fal.ai image generation | [memory-maker-app.netlify.app](https://memory-maker-app.netlify.app) |
+| **Productiv** | Central orchestration dashboard for the CXIntelOS ecosystem | [productiv.site](https://productiv.site) |
+
+### 🔧 In Development
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[cxpro.site](https://cxpro.site)** | Multi-model AI contract analyzer that flags hidden risks before you sign | Live |
-| **[MySignAgent](https://mysignagent.com)** | Autonomous digital signage SaaS with 7 AI agents, Stripe, 11 industry verticals | Live |
-| **[AgentDirectory](https://agentdirectory.net)** | AI agent marketplace with 13 revenue streams and self-hosted OTP auth | Pre-launch |
-| **[TheDailyFix](https://thedailyfix.net)** | Curated AI tools and newsletter platform | Active |
-| **[productiv.site](https://productiv.site)** | Central orchestration dashboard for the CXIntelOS ecosystem | In Build |
-| **[Memory Maker](https://memory-maker-app.netlify.app)** | AI-powered photo memory app with Fal.ai image generation | Live |
+| **MySignAgent** | Autonomous digital signage SaaS with 7 AI agents, Stripe, 11 industry verticals | Building |
+| **TheDailyFix** | Curated AI tools and newsletter platform | Planning |
+| **CXIntelOS** | Trust score / certification standard measuring contract fairness | Designing |
+| **SaaS Business Architect** | Full-stack SaaS ideation and financial modeling workspace | Building |
+| **Orchestra SDLC Launchpad** | End-to-end SDLC orchestrator with prompt contracts | Building |
+| **QC Software Sentinel** | Automated QC platform for web and mobile app testing | Building |
 
 ---
 
